@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CekOut</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>406a77a3-e89f-43d9-a301-3b815ef3d364</testCaseGuid>
+   <variable>
+      <defaultValue>['performance_glitch_user', 'problem_user', 'lockedout_user', 'standard_user']</defaultValue>
+      <description></description>
+      <id>38d66767-32b9-49a2-a15a-66128b8f168f</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'secret_sauce'</defaultValue>
+      <description></description>
+      <id>4b23146b-a856-4d3f-a362-53d82c9a2857</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
